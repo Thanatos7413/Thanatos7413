@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thanatos7413
 - 👀 I’m interested in It-Security
-- 🌱 I’m currently learning python, sql und kali linux
+- 🌱 I’m currently learning python, sql and kali linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dstegmaier@stud.macromedia.de
 
